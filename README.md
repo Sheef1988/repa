@@ -1,3 +1,3 @@
 # REPA
 Testing repository for my project
-SOME NEW INFORMATION ADDED
+chemgin 001
